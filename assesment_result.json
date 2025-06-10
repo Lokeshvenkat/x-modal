@@ -1,0 +1,8 @@
+{
+    "Test Case 1: Modal Application Tests - Opens the modal": "TEST_STATUS_SUCCESS",
+    "Test Case 2: Modal Application Tests - Validates email input field": "TEST_STATUS_SUCCESS",
+    "Test Case 3: Modal Application Tests - Validates phone number input field": "TEST_STATUS_SUCCESS",
+    "Test Case 4: Modal Application Tests - Validates date of birth input field": "TEST_STATUS_SUCCESS",
+    "Test Case 5: Modal Application Tests - Submits the form with valid data": "TEST_STATUS_SUCCESS",
+    "Test Case 6: Modal Application Tests - Closes the modal when clicking outside": "TEST_STATUS_SUCCESS"
+}
